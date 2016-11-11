@@ -7,7 +7,7 @@ document.write("</div>");
 document.write("<h3>Contact</h3>");
 document.write("<ul>");
 document.write("<li>E—Mail：llpspark@outlook.com</li>");
-document.write("<li>386752090@qq.com</li>");
+document.write("<li>              </li>");
 document.write("<li>CSDN技术博客：http://blog.csdn.net/wonengguwozai</li>");
 document.write("</ul>");
 document.write("<h3>My Links</h3>");
