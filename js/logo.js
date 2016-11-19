@@ -1,7 +1,7 @@
 ﻿document.write("<div id=\"logo\">");
 document.write("<div id=\"logo_text\">");
 document.write("<!-- class=\"logo_colour\", allows you to change the colour of the text -->");
-document.write("<h1><a href=\"index.html\">Lipeng Liu<span class=\"logo_colour\">（刘利朋）</span></a></h1>");
+document.write("<h1><a href=\"index.html\">Lipeng Liu<span class=\"logo_colour\">    </span></a></h1>");
 document.write("<h2>我能故我在</h2>");
 document.write("</div>");
 document.write("<div id=\"logo_badgeCASIIE\" class=\"logo_badge\">");
