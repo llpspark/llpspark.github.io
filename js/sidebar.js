@@ -15,6 +15,7 @@ document.write("<ul>");
 document.write("<li><a href=\"http://cvpr.ouc.edu.cn/mem/liulipeng.html \" target=\"_blank\"> 我在实验室</a></li>");
 document.write("<li><a href=\"https://github.com/llpspark\" target=\"_blank\"> 我的github</a></li>");
 document.write("<li><a href=\"http://www.liaoxuefeng.com/ \" target=\"_blank\"> 廖学峰的学习网站</a></li>");
+document.write("<li><a href=\"http://man.linuxde.net/ \" target=\"_blank\"> Linux小百度</a></li>");
 document.write("</ul>");
 
 document.write("</div>");
